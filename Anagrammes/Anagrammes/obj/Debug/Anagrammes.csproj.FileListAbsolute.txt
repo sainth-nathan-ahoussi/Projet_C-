@@ -1,0 +1,11 @@
+Z:\VsCode\Anagrammes\Anagrammes\bin\Debug\Anagrammes.exe.config
+Z:\VsCode\Anagrammes\Anagrammes\bin\Debug\Anagrammes.exe
+Z:\VsCode\Anagrammes\Anagrammes\bin\Debug\Anagrammes.pdb
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.csproj.AssemblyReference.cache
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.csproj.SuggestedBindingRedirects.cache
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.Form1.resources
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.Properties.Resources.resources
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.csproj.GenerateResource.cache
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.csproj.CoreCompileInputs.cache
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.exe
+Z:\VsCode\Anagrammes\Anagrammes\obj\Debug\Anagrammes.pdb

@@ -1,0 +1,11 @@
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.csproj.AssemblyReference.cache
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.csproj.SuggestedBindingRedirects.cache
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.Form1.resources
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.Properties.Resources.resources
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.csproj.GenerateResource.cache
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.csproj.CoreCompileInputs.cache
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\bin\Debug\Vrai_Démineur.exe.config
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\bin\Debug\Vrai_Démineur.exe
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\bin\Debug\Vrai_Démineur.pdb
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.exe
+Z:\VsCode\Vrai_Démineur\Vrai_Démineur\obj\Debug\Vrai_Démineur.pdb

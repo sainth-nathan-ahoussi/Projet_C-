@@ -1,0 +1,7 @@
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.csproj.AssemblyReference.cache
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.Implementation.CustomListView.resources
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.csproj.GenerateResource.cache
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.GeneratedMSBuildEditorConfig.editorconfig
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.AssemblyInfoInputs.cache
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.AssemblyInfo.cs
+Z:\VsCode\TP_MVC_NATHAN\TP_MVC_NATHAN\obj\Debug\net6.0-windows\TP_MVC_NATHAN.csproj.CoreCompileInputs.cache

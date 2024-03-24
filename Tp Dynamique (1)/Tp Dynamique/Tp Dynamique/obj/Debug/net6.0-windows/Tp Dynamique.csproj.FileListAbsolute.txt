@@ -1,0 +1,51 @@
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.exe
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.deps.json
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.runtimeconfig.json
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.dll
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.pdb
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.AssemblyReference.cache
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp_Dynamique.Form1.resources
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.GenerateResource.cache
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfoInputs.cache
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfo.cs
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.CoreCompileInputs.cache
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.dll
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\refint\Tp Dynamique.dll
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.pdb
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.genruntimeconfig.cache
+C:\Users\awagne\source\repos\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\ref\Tp Dynamique.dll
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.exe
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.deps.json
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.runtimeconfig.json
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.dll
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.pdb
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.AssemblyReference.cache
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp_Dynamique.Form1.resources
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.GenerateResource.cache
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.GeneratedMSBuildEditorConfig.editorconfig
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfoInputs.cache
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfo.cs
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.CoreCompileInputs.cache
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.dll
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\refint\Tp Dynamique.dll
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.pdb
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.genruntimeconfig.cache
+Z:\S2\IHM\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\ref\Tp Dynamique.dll
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.exe
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.deps.json
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.runtimeconfig.json
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.dll
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\bin\Debug\net6.0-windows\Tp Dynamique.pdb
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.AssemblyReference.cache
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp_Dynamique.Form1.resources
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.GenerateResource.cache
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfoInputs.cache
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.AssemblyInfo.cs
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.csproj.CoreCompileInputs.cache
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.dll
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\refint\Tp Dynamique.dll
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.pdb
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\Tp Dynamique.genruntimeconfig.cache
+C:\Users\awagne\Downloads\Tp Dynamique\Tp Dynamique\Tp Dynamique\obj\Debug\net6.0-windows\ref\Tp Dynamique.dll
